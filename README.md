@@ -1,0 +1,1 @@
+The model is functional, but its predictions are not scientifically validated for real agricultural use.
